@@ -2,7 +2,7 @@
 Пишу всякую всячину, а так же практикуюсь в кодинге.
 
 ## Что ты используешь?
-OS: ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff) 
+OS: ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff) \n
 IDEs: ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green), ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black), ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white), ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ## На каких языках программирования ты пишешь?
