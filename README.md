@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/foffyJRxnF4AAAAC/tenor.gif" width="150">
+<img src="https://c.tenor.com/mFX0gzBmX68AAAAC/tenor.gif" width="150">
 
 ## Чем ты занимаешься?
 Пишу всякую всячину, а так же практикуюсь в кодинге.
