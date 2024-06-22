@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DS1NC-DesConnet/DS1NC-DesConnet/main/assets/shy.gif" width="150">
+<img src="https://c.tenor.com/foffyJRxnF4AAAAC/tenor.gif" width="150">
 
 ## Чем ты занимаешься?
 Пишу всякую всячину, а так же практикуюсь в кодинге.
