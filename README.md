@@ -1,5 +1,7 @@
 <img src="https://c.tenor.com/mFX0gzBmX68AAAAC/tenor.gif" width="300">
 
+![](https://hit.yhype.me/github/profile?user_id=138277587)
+
 ## Чем ты занимаешься?
 Пишу всякую всячину, а так же практикуюсь в кодинге.
 
