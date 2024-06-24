@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/mFX0gzBmX68AAAAC/tenor.gif" width="300">
 
-![](https://hit.yhype.me/github/profile?user_id=138277587)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=squizoff&label=Profile%20views&color=0e75b6&style=flat" alt="squizoff" /> </p>
 
 ## Чем ты занимаешься?
 Пишу всякую всячину, а так же практикуюсь в кодинге.
