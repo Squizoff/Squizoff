@@ -1,7 +1,5 @@
 <img src="https://c.tenor.com/mFX0gzBmX68AAAAC/tenor.gif" width="300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=squizoff&label=Profile%20views&color=0e75b6&style=flat" alt="squizoff" /> </p>
-
 ## Чем ты занимаешься?
 Пишу всякую всячину, а так же практикуюсь в кодинге.
 
@@ -15,3 +13,6 @@ IDEs: ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor
 
 ## Какие хочешь выучить?
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=squizoff&label=Profile%20views&color=0e75b6&style=flat" alt="squizoff" /> </p>
