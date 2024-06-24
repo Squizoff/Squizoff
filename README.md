@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squizoff&label=Profile%20views&color=0e75b6&style=flat" alt="squizoff" /> </p>
 
-- All of my projects are available at [Github](Github)
+- All of my projects are available at [Github](https://github.com/squizoff)
 
 ## What do you do?
 I write all sorts of stuff, as well as practice coding.
