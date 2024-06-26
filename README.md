@@ -1,19 +1,21 @@
 <img src="https://c.tenor.com/mFX0gzBmX68AAAAC/tenor.gif" width="300">
 
+<h1 align="center">Hi 👋, I'm Squizoff</h1>
+<h3 align="center">A passionate backend developer from Russia</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squizoff&label=Profile%20views&color=0e75b6&style=flat" alt="squizoff" /> </p>
 
-- All of my projects are available at [Github](https://github.com/Squizoff?tab=repositories)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squizoff" alt="squizoff" /></a> </p>
 
-## What do you do?
-I write all sorts of stuff, as well as practice coding.
+- 🔭 I’m currently working on [SquizCoin](https://github.com/Squizoff/SquizCoin-Wallet)
 
-## What are you using?
-OS: ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff)
+- 👨‍💻 All of my projects are available at [https://github.com/Squizoff?tab=repositories](https://github.com/Squizoff?tab=repositories)
 
-IDEs: ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## What programming languages do you write in?
-![C#](https://img.shields.io/badge/C%23-lime?logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Which ones do you want to learn?
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=squizoff&show_icons=true&locale=en&layout=compact" alt="squizoff" /></p>
